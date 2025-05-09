@@ -20,10 +20,24 @@ These instructions will help you set up and run the project on your local develo
 - Swift 5 or later
 - iOS Simulator or a real iPhone device
 
-### Installation
+## 🗂️ Project Structure
+kinjalK_task_manager_app/
+├── Controllers/        
+├── Models/             
+├── Views/         
+├── Resources/          
+├── Info.plist          
+└── KinjalKTaskManager.xcodeproj 
 
-1. **Clone the repository:**
 
-   ```bash
-   git clone https://github.com/your-username/kinjalK_task_manager_app.git
-   cd kinjalK_task_manager_app
+## Screenshot
+<img width="466" alt="Screenshot 2025-05-08 at 10 45 08 PM" src="https://github.com/user-attachments/assets/a629c184-7014-47fd-b8a2-4f8cffc25df1" />
+
+<img width="466" alt="Screenshot 2025-05-08 at 10 45 17 PM" src="https://github.com/user-attachments/assets/1fd877df-5950-4bb4-aa5b-cc7991c5face" />
+
+<img width="466" alt="Screenshot 2025-05-08 at 10 45 26 PM" src="https://github.com/user-attachments/assets/add47b3c-67bc-4794-b2d7-6870be457b71" />
+
+<img width="466" alt="Screenshot 2025-05-08 at 10 47 16 PM" src="https://github.com/user-attachments/assets/bd016bfc-74ad-41d0-9072-6934eae8c110" />
+
+
+
